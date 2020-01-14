@@ -1,0 +1,8 @@
+<!DOCTYPE FilterScript>
+<FilterScript>
+ <filter name="Vertex Color Filling">
+  <Param type="RichDynamicFloat" value="255" min="0" name="r" max="255"/>
+  <Param type="RichDynamicFloat" value="255" min="0" name="g" max="255"/>
+  <Param type="RichDynamicFloat" value="255" min="0" name="b" max="255"/>
+ </filter>
+</FilterScript>
